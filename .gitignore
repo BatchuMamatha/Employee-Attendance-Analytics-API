@@ -7,3 +7,4 @@ __pycache__/
 *.log
 candidate_kit/
 sample_data/
+sample_seed.py
